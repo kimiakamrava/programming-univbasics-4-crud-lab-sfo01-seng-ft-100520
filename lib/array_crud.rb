@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   recepie = ["salmon","eeg","milk","celery"]
-  
+  recepie.push
   
 end
 
